@@ -70,7 +70,7 @@ export const SAMPLE_PROJECTS: Project[] = [
 ];
 
 export const WEBSITES: WebsiteItem[] = [
-  { domain: 'autoausbeulen.ch', industry: 'Automotive PDR', stack: ['WordPress', 'Elementor'], highlights: 'Swiss-standard UI/UX with booking integration.', image: 'https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&q=80&w=800' },
+  { domain: 'autoausbeulen.ch', industry: 'Automotive PDR', stack: ['WordPress', 'Elementor'], highlights: 'Swiss-standard UI/UX with booking integration.', image: '/images/autoausbeulen.png' },
   { domain: 'pdrtools.ch', industry: 'E-commerce', stack: ['WooCommerce', 'Custom PHP'], highlights: 'Specialized shop for high-end PDR tools.', image: 'https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&q=80&w=800' },
   { domain: 'masterfixpdr.se', industry: 'Automotive Services', stack: ['Astro', 'Tailwind'], highlights: 'Speed-optimized landing page for Swedish market.', image: 'https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=800' },
   { domain: 'iasre.com', industry: 'International Expo', stack: ['WordPress', 'Multilingual'], highlights: 'Event management and exhibitor directory.', image: 'https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&q=80&w=800' },
