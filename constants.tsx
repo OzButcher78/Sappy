@@ -70,17 +70,17 @@ export const SAMPLE_PROJECTS: Project[] = [
 ];
 
 export const WEBSITES: WebsiteItem[] = [
-  { domain: 'autoausbeulen.ch', industry: 'Automotive PDR', stack: ['WordPress', 'Elementor'], highlights: 'Swiss-standard UI/UX with booking integration.', image: '/images/autoausbeulen.png' },
-  { domain: 'pdrtools.ch', industry: 'E-commerce', stack: ['WooCommerce', 'Custom PHP'], highlights: 'Specialized shop for high-end PDR tools.', image: 'https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&q=80&w=800' },
-  { domain: 'masterfixpdr.se', industry: 'Automotive Services', stack: ['Astro', 'Tailwind'], highlights: 'Speed-optimized landing page for Swedish market.', image: 'https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=800' },
-  { domain: 'iasre.com', industry: 'International Expo', stack: ['WordPress', 'Multilingual'], highlights: 'Event management and exhibitor directory.', image: 'https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&q=80&w=800' },
-  { domain: 'iasre-japan.com', industry: 'International Expo Japan', stack: ['WordPress', 'Japanese'], highlights: 'Regional expo platform with localized UX.', image: 'https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?auto=format&fit=crop&q=80&w=800' },
-  { domain: 'erna.hr', industry: 'Interior Design', stack: ['React', 'Next.js'], highlights: 'High-end portfolio showcase with minimalist aesthetic.', image: 'https://images.unsplash.com/photo-1616489953149-75573a1b5598?auto=format&fit=crop&q=80&w=800' },
-  { domain: 'pdr.hr', industry: 'PDR Academy', stack: ['WordPress', 'LMS'], highlights: 'Educational platform for paintless dent repair.', image: 'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&q=80&w=800' },
-  { domain: 'homehuahin.com', industry: 'Real Estate', stack: ['Laravel', 'Vue'], highlights: 'Complex property filtering and map search.', image: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&q=80&w=800' },
-  { domain: 'straehl-druecktechnik.ch', industry: 'Specialized Repair', stack: ['WordPress', 'Custom UI'], highlights: 'Precision engineering repair services.', image: 'https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&q=80&w=800' },
-  { domain: 'sciuto-drücktechnik.ch', industry: 'Automotive Expert', stack: ['WordPress', 'SEO Optimized'], highlights: 'High-ranking regional automotive service.', image: 'https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&q=80&w=800' },
-  { domain: 'cleverausbeulen.ch', industry: 'Automotive Repair', stack: ['WordPress', 'SEO'], highlights: 'Modern service platform for regional dent repair.', image: 'https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?auto=format&fit=crop&q=80&w=800' },
-  { domain: 'whatdents.co.uk', industry: 'PDR UK', stack: ['HTML5', 'CSS3', 'SEO'], highlights: 'UK-based high-performance landing page.', image: 'https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&q=80&w=800' },
-  { domain: 'dentag.com.au', industry: 'PDR Australia', stack: ['WordPress', 'Custom Design'], highlights: 'Global service representation in the Australian market.', image: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=800' }
+  { domain: 'autoausbeulen.ch', industry: 'Swiss PDR Specialist', stack: ['WordPress', 'Custom Designed Plugin'], highlights: 'Swiss-standard UI/UX.', image: '/images/autoausbeulen.png' },
+  { domain: 'pdrtools.ch', industry: 'International E-commerce', stack: ['WooCommerce','Multilingual', 'Custom Designed Plugins'], highlights: 'Specialized shop for high-end PDR tools.', image: '/images/pdrtools.jpg' },
+  { domain: 'masterfixpdr.se', industry: 'Swedish PDR Services', stack: ['Wordpress', 'Multilingual'], highlights: 'Speed-optimized landing page for Swedish market.', image: '/images/masterfixpdr.jpg' },
+  { domain: 'iasre.com', industry: 'International Expo', stack: ['WordPress', 'Multilingual'], highlights: 'Event management and exhibitor directory.', image: '/images/iasre.jpg' },
+  { domain: 'iasre-japan.com', industry: 'Japanese PDR Expo', stack: ['WordPress', 'Multilingual'], highlights: 'Regional expo platform with localized UX.', image: '/images/iasre-japan.jpg' },
+  { domain: 'erna.hr', industry: 'Dry cleaning in Croatia', stack: ['Wordpress'], highlights: 'High-end portfolio showcase with minimalist aesthetic.', image: '/images/erna.jpg' },
+  { domain: 'pdr.hr', industry: 'PDR Specialists Croatia', stack: ['WordPress'], highlights: 'Educational platform for paintless dent repair.', image: '/images/pdr.jpg' },
+  { domain: 'homehuahin.com', industry: 'Real Estate', stack: ['Wordpress'], highlights: 'Complex property filtering and map search.', image: '/images/homehuahin.jpg' },
+  { domain: 'straehl-druecktechnik.ch', industry: 'Swiss PDR Specialist', stack: ['WordPress', 'SEO Optimized'], highlights: 'Precision engineering repair services.', image: '/images/straehl.jpg' },
+  { domain: 'sciuto-drücktechnik.ch', industry: 'Swiss PDR Specialist', stack: ['WordPress', 'SEO Optimized'], highlights: 'High-ranking regional automotive service.', image: '/images/sciuto.jpg' },
+  { domain: 'cleverausbeulen.ch', industry: 'Swiss PDR Specialist', stack: ['WordPress', 'SEO Optimized'], highlights: 'Modern service platform for regional dent repair.', image: '/images/clever.jpg' },
+  { domain: 'whatdents.co.uk', industry: 'PDR Specialist UK', stack: ['Wordpress', 'SEO'], highlights: 'UK-based high-performance landing page.', image: '/images/whatdents.jpg' },
+  { domain: 'dentag.com.au', industry: 'PDR Australia', stack: ['WordPress', 'Custom Design'], highlights: 'Global service representation in the Australian market.', image: '/images/dentag.jpg' }
 ];
