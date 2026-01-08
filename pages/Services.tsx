@@ -50,7 +50,7 @@ const Services: React.FC = () => {
           <div className="relative group">
             <div className="absolute inset-0 bg-blue-600 blur-[120px] opacity-10"></div>
             <div className="relative bg-slate-800 rounded-3xl overflow-hidden shadow-2xl border border-slate-700">
-               <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800" alt="Website Design" className="w-full h-full object-cover" />
+               <img src="/images/website.png?auto=format&fit=crop&q=80&w=800" alt="Website Design" className="w-full h-full object-cover" />
             </div>
           </div>
         </div>
@@ -97,18 +97,18 @@ const Services: React.FC = () => {
           </div>
           <div className="relative group lg:order-1">
             <div className="relative bg-slate-800 rounded-3xl overflow-hidden shadow-2xl border border-slate-700">
-               <img src="https://images.unsplash.com/photo-1581092334651-ddf26d9a1930?auto=format&fit=crop&q=80&w=800" alt="CAD Design" className="w-full h-full object-cover" />
+               <img src="/images/CAD.png" alt="CAD Design" className="w-full h-full object-cover" />
             </div>
           </div>
         </div>
 
-        {/* Vibe App Design */}
+        {/* App Design */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
             <div className="w-16 h-16 bg-blue-600 rounded-2xl flex items-center justify-center text-white mb-8 shadow-xl shadow-blue-600/20">
               <Cpu size={32} />
             </div>
-            <h2 className="text-5xl font-black mb-6 text-white tracking-tight">Vibe App Design</h2>
+            <h2 className="text-5xl font-black mb-6 text-white tracking-tight">Custom App Design</h2>
             <p className="text-xl text-slate-400 mb-8 leading-relaxed font-bold tracking-tight">
               Design-forward, “high-vibe” applications with polished UI, reactive interfaces, and practical AI integration.
             </p>
